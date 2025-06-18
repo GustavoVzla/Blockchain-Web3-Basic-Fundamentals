@@ -140,7 +140,3 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 ---
 
 Thank you for visiting this repository! I hope these projects are useful for learning and practicing blockchain development with the most modern technologies. Enjoy coding! 🚀
-
-```
-
-```
