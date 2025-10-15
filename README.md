@@ -1,12 +1,10 @@
 # 🧱 Blockchain Web3 Basic Fundamentals
 
-This repository is a collection of educational projects developed with **Hardhat 3 Alpha + Viem + Ignition**, designed to learn and practice fundamental concepts of blockchain development. Each project is organized in its own folder, with smart contracts, tests, and interaction scripts.
-
-> **⚠️ WARNING**: This project uses Hardhat 3 Alpha, which is still in development. Only for **educational purposes and local testing**.
+This repository is a collection of educational projects developed with **Hardhat 3 + Viem + Ignition**, designed to learn and practice fundamental concepts of blockchain development. Each project is organized in its own folder, with smart contracts, tests, and interaction scripts.
 
 ## 📦 Main Technologies
 
-- **Hardhat 3 Alpha**: New modular and asynchronous system for Ethereum development
+- **Hardhat 3**: Modular and asynchronous system for Ethereum development
 - **Viem**: Modern library that replaces ethers.js/web3.js
 - **Ignition**: Safe and reproducible deployment system
 - **TypeScript**: Static typing for greater code safety
@@ -33,7 +31,7 @@ mkdir my-blockchain-project
 cd my-blockchain-project
 
 # 2. Initialize Hardhat 3 project
-npx hardhat@next init
+npx hardhat init
 ```
 
 This command will ask you for some configuration options. Accept the default options to quickly get a functional configuration that includes:
@@ -112,7 +110,7 @@ Each project includes two types of tests:
 
 ## 🔗 Additional Resources
 
-- [Hardhat 3 Alpha Tutorial](https://hardhat.org/hardhat3-alpha)
+- [Hardhat Documentation](https://hardhat.org/docs/getting-started)
 - [Viem Documentation](https://viem.sh/docs/)
 - [Ignition Documentation](https://hardhat.org/ignition/docs)
 - [forge-std Documentation](https://github.com/foundry-rs/forge-std)
